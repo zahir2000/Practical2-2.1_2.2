@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
         nickname_text.setOnClickListener {
             updateNickname(it)
         }
+
+        //TODO: please complete this project
     }
 
     private fun addNickname(view: View) {
